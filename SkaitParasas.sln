@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkaitParasas", "SkaitParasas\SkaitParasas.csproj", "{12441F18-50DD-442E-AFF3-3A13F63C12EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12441F18-50DD-442E-AFF3-3A13F63C12EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12441F18-50DD-442E-AFF3-3A13F63C12EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12441F18-50DD-442E-AFF3-3A13F63C12EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12441F18-50DD-442E-AFF3-3A13F63C12EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99F14AC-BDE7-4BC2-AB98-C7B2B8F352CE}
+	EndGlobalSection
+EndGlobal

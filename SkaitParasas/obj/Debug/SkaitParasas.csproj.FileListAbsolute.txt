@@ -1,0 +1,22 @@
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\bin\Debug\SkaitParasas.exe.config
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\bin\Debug\SkaitParasas.exe
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\bin\Debug\SkaitParasas.pdb
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.csprojAssemblyReference.cache
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.Form1.resources
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.Properties.Resources.resources
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.csproj.GenerateResource.cache
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.csproj.CoreCompileInputs.cache
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.exe
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.pdb
+C:\Users\Vidas\Desktop\2 kursas 2 pusmetis\saugumas\4\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.Form2.resources
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\bin\Debug\SkaitParasas.exe.config
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\bin\Debug\SkaitParasas.exe
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\bin\Debug\SkaitParasas.pdb
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.csprojAssemblyReference.cache
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.Form1.resources
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.Form2.resources
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.Properties.Resources.resources
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.csproj.GenerateResource.cache
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.csproj.CoreCompileInputs.cache
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.exe
+C:\Users\s031900\OneDrive - Vilniaus kolegija\2_Kursas\Informacijos Saugumas\Saugumas\SkaitParasas_VSH\SkaitParasas\SkaitParasas\obj\Debug\SkaitParasas.pdb
